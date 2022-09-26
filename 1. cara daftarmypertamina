@@ -1,0 +1,83 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"1234567890123456",
+      "backup_ads_intertitial":"1234567890123456",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"123456789",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "cara daftar mypertamina",
+      "image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    },
+    {
+      "id": 2,
+      "title": "cara dafta pedulilindungi",
+      "image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "tutorial",
+      "image": "file:///android_asset/image/image1.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "tutorial",
+      "title": "Syarat daftar beli Pertalite dan Solar subsidi",
+      "image": "file:///android_asset/image/guide.jpg",
+      "description": "Syarat daftar beli Pertalite dan Solar subsidi Cara mendaftar MyPertamina Subsidi Tepat",
+      "link": "https://caradaftarpertamina.blogspot.com/2022/09/1-syarat-daftar-beli-pertalite-dan.html"
+    },
+    {
+      "id": 2,
+      "name_category": "tutorial",
+      "title": "Daftar MyPertamina Subsidi Tepat via aplikasi",
+      "image": "file:///android_asset/image/guide.jpg",
+      "description": "Daftar MyPertamina Subsidi Tepat via aplikasi Tata cara daftar MyPertamina untuk Solar ",
+      "link": "https://caradaftarpertamina.blogspot.com/2022/09/2-daftar-mypertamina-subsidi-tepat-via.html"
+    },
+    {
+      "id": 3,
+      "name_category": "tutorial",
+      "title": "Pendaftaran via subsiditepat.mypertamina.id",
+      "image": "file:///android_asset/image/guide.jpg",
+      "description": "Pendaftaran via subsiditepat.mypertamina.id Berikut cara mendaftar MyPertamina Subsidi Tepat via website:",
+      "link": "https://caradaftarpertamina.blogspot.com/2022/09/3-pendaftaran-via-subsiditepatmypertami.html"
+    },
+    {
+      "id": 4,
+      "name_category": "tutorial",
+      "title": "Cara mendaftar MyPertamina Subsidi Tepat offline",
+      "image": "file:///android_asset/image/guide.jpg",
+      "description": "Cara mendaftar MyPertamina Subsidi Tepat offline Pendaftaran secara offline bisa dilakukan",
+      "link": "https://caradaftarpertamina.blogspot.com/2022/09/4-cara-mendaftar-mypertamina-subsidi.html"
+    }
+  ]
+}
