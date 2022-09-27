@@ -1,0 +1,340 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"1234567890123456",
+      "backup_ads_intertitial":"1234567890123456",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"ca-app-pub-3940256099942544/2247696110",
+      "interval_intertitial": 5,
+      "initialize_sdk":"123456789",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "cara daftar mypertamina",
+      "image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    },
+    {
+      "id": 2,
+      "title": "cara dafta pedulilindungi",
+      "image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "tutorial",
+      "image": "file:///android_asset/image/logo.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "tutorial",
+      "title": "Buchi",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Soak rice overnight in water, then grind.  Wrap in cheesecloth and hang to drip",
+      "link": "file:///android_asset/assets/details1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "tutorial",
+      "title": "Mango Float",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Mango Float",
+      "link": "file:///android_asset/assets/details2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "tutorial",
+      "title": "3. Cara mendaftar Pedulilindungi untuk anak di bawah umur yang belum punya KTP",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Bagi para orang tua mungkin sempat bingung untuk mendaftarkan anaknya di Pedulilindungi",
+      "link": "file:///android_asset/assets/details3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "tutorial",
+      "title": "4. Cara melihat sertifikat vaksin di aplikasi Pedulilindungi",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Setelah berhasil mendaftar dan masuk ke aplikasi Pedulilindungi, kamu bisa memanfaatkan berbagai fitur yang tersedia",
+      "link": "file:///android_asset/assets/details4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details5.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details5.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details5.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details5.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details9.html"
+    },
+    {
+      "id": 10,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details10.html"
+    },
+    {
+      "id": 11,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details11.html"
+    },
+    {
+      "id": 12,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details12.html"
+    },
+    {
+      "id": 13,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details13.html"
+    },
+    {
+      "id": 14,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details14.html"
+    },
+    {
+      "id": 15,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details15.html"
+    },
+    {
+      "id": 16,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details16.html"
+    },
+    {
+      "id": 17,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details17.html"
+    },
+    {
+      "id": 18,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details18.html"
+    },
+    {
+      "id": 19,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details19.html"
+    },
+    {
+      "id": 20,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details20.html"
+    },
+    {
+      "id": 21,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details21.html"
+    },
+    {
+      "id": 22,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details22.html"
+    },
+    {
+      "id": 23,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details23.html"
+    },
+    {
+      "id": 24,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details24.html"
+    },
+    {
+      "id": 25,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details25.html"
+    },
+    {
+      "id": 26,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details26.html"
+    },
+    {
+      "id": 27,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details27.html"
+    },
+    {
+      "id": 28,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details28.html"
+    },
+    {
+      "id": 29,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details29.html"
+    },
+    {
+      "id": 30,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details30.html"
+    },
+    {
+      "id": 31,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details31.html"      
+    },
+    {
+      "id": 32,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "file:///android_asset/assets/details32.html"
+      
+    }
+  ]
+}
