@@ -43,7 +43,7 @@
     {
       "id": 1,
       "name_category": "tutorial",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "file:///android_asset/image/logo.png"
     }
   ],
   "Data": [
@@ -51,7 +51,7 @@
       "id": 1,
       "name_category": "tutorial",
       "title": "1. Cara mendaftar pedulilindungi pakai nomor HP",
-      "image": "file:///android_asset/image/guide.jpg",
+      "image": "file:///android_asset/image/logo.png",
       "description": "Salah satu sistem keamanan yang juga digunakan untuk mendaftar Pedulilindungi adalah menggunakan nomor HP",
       "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/1-cara-mendaftar-pedulilindungi-pakai.html"
     },
@@ -59,7 +59,7 @@
       "id": 2,
       "name_category": "tutorial",
       "title": "2. Cara mendaftar PeduliLindungi pakai e-mail",
-      "image": "file:///android_asset/image/guide.jpg",
+      "image": "file:///android_asset/image/logo.png",
       "description": "Selain menggunakan HP, kamu juga bisa menggunakan e-mail untuk mendaftar Pedulilindungi",
       "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/2-cara-mendaftar-pedulilindungi-pakai-e.html"
     },
@@ -67,7 +67,7 @@
       "id": 3,
       "name_category": "tutorial",
       "title": "3. Cara mendaftar Pedulilindungi untuk anak di bawah umur yang belum punya KTP",
-      "image": "file:///android_asset/image/guide.jpg",
+      "image": "file:///android_asset/image/logo.png",
       "description": "Bagi para orang tua mungkin sempat bingung untuk mendaftarkan anaknya di Pedulilindungi",
       "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/3-cara-mendaftar-pedulilindungi-untuk.html"
     },
@@ -75,7 +75,7 @@
       "id": 4,
       "name_category": "tutorial",
       "title": "4. Cara melihat sertifikat vaksin di aplikasi Pedulilindungi",
-      "image": "file:///android_asset/image/guide.jpg",
+      "image": "file:///android_asset/image/logo.png",
       "description": "Setelah berhasil mendaftar dan masuk ke aplikasi Pedulilindungi, kamu bisa memanfaatkan berbagai fitur yang tersedia",
       "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/4-cara-melihat-sertifikat-vaksin-di.html"
     },
@@ -83,7 +83,7 @@
       "id": 5,
       "name_category": "tutorial",
       "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
-      "image": "file:///android_asset/image/guide.jpg",
+      "image": "file:///android_asset/image/logo.png",
       "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
       "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/5-cara-menggunakan-aplikasi.html"
     }
