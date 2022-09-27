@@ -50,34 +50,42 @@
     {
       "id": 1,
       "name_category": "tutorial",
-      "title": "Syarat daftar beli Pertalite dan Solar subsidi",
+      "title": "1. Cara mendaftar pedulilindungi pakai nomor HP",
       "image": "file:///android_asset/image/guide.jpg",
-      "description": "Syarat daftar beli Pertalite dan Solar subsidi Cara mendaftar MyPertamina Subsidi Tepat",
-      "link": "https://caradaftarpertamina.blogspot.com/2022/09/1-syarat-daftar-beli-pertalite-dan.html"
+      "description": "Salah satu sistem keamanan yang juga digunakan untuk mendaftar Pedulilindungi adalah menggunakan nomor HP",
+      "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/1-cara-mendaftar-pedulilindungi-pakai.html"
     },
     {
       "id": 2,
       "name_category": "tutorial",
-      "title": "Daftar MyPertamina Subsidi Tepat via aplikasi",
+      "title": "2. Cara mendaftar PeduliLindungi pakai e-mail",
       "image": "file:///android_asset/image/guide.jpg",
-      "description": "Daftar MyPertamina Subsidi Tepat via aplikasi Tata cara daftar MyPertamina untuk Solar ",
-      "link": "https://caradaftarpertamina.blogspot.com/2022/09/2-daftar-mypertamina-subsidi-tepat-via.html"
+      "description": "Selain menggunakan HP, kamu juga bisa menggunakan e-mail untuk mendaftar Pedulilindungi",
+      "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/2-cara-mendaftar-pedulilindungi-pakai-e.html"
     },
     {
       "id": 3,
       "name_category": "tutorial",
-      "title": "Pendaftaran via subsiditepat.mypertamina.id",
+      "title": "3. Cara mendaftar Pedulilindungi untuk anak di bawah umur yang belum punya KTP",
       "image": "file:///android_asset/image/guide.jpg",
-      "description": "Pendaftaran via subsiditepat.mypertamina.id Berikut cara mendaftar MyPertamina Subsidi Tepat via website:",
-      "link": "https://caradaftarpertamina.blogspot.com/2022/09/3-pendaftaran-via-subsiditepatmypertami.html"
+      "description": "Bagi para orang tua mungkin sempat bingung untuk mendaftarkan anaknya di Pedulilindungi",
+      "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/3-cara-mendaftar-pedulilindungi-untuk.html"
     },
     {
       "id": 4,
       "name_category": "tutorial",
-      "title": "Cara mendaftar MyPertamina Subsidi Tepat offline",
+      "title": "4. Cara melihat sertifikat vaksin di aplikasi Pedulilindungi",
       "image": "file:///android_asset/image/guide.jpg",
-      "description": "Cara mendaftar MyPertamina Subsidi Tepat offline Pendaftaran secara offline bisa dilakukan",
-      "link": "https://caradaftarpertamina.blogspot.com/2022/09/4-cara-mendaftar-mypertamina-subsidi.html"
+      "description": "Setelah berhasil mendaftar dan masuk ke aplikasi Pedulilindungi, kamu bisa memanfaatkan berbagai fitur yang tersedia",
+      "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/4-cara-melihat-sertifikat-vaksin-di.html"
+    },
+    {
+      "id": 5,
+      "name_category": "tutorial",
+      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "image": "file:///android_asset/image/guide.jpg",
+      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "link": "https://caradaftarpedulilindungi1.blogspot.com/2022/09/5-cara-menggunakan-aplikasi.html"
     }
   ]
 }
