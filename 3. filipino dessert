@@ -66,79 +66,47 @@
     {
       "id": 3,
       "name_category": "tutorial",
-      "title": "3. Cara mendaftar Pedulilindungi untuk anak di bawah umur yang belum punya KTP",
+      "title": "Maruya I (Banana Fritters)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Bagi para orang tua mungkin sempat bingung untuk mendaftarkan anaknya di Pedulilindungi",
+      "description": "Maruya I (Banana Fritters)",
       "link": "file:///android_asset/assets/details3.html"
     },
     {
       "id": 4,
       "name_category": "tutorial",
-      "title": "4. Cara melihat sertifikat vaksin di aplikasi Pedulilindungi",
+      "title": "Turon Saba (Banana Plantain Rolls in Sugar)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Setelah berhasil mendaftar dan masuk ke aplikasi Pedulilindungi, kamu bisa memanfaatkan berbagai fitur yang tersedia",
+      "description": "Turon Saba (Banana Plantain Rolls in Sugar)",
       "link": "file:///android_asset/assets/details4.html"
     },
     {
       "id": 5,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Basic Polvoron",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
-      "link": "file:///android_asset/assets/details5.html"
-    },
-    {
-      "id": 5,
-      "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
-      "link": "file:///android_asset/assets/details5.html"
-    },
-    {
-      "id": 5,
-      "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
-      "link": "file:///android_asset/assets/details5.html"
-    },
-    {
-      "id": 5,
-      "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
-      "link": "file:///android_asset/assets/details5.html"
-    },
-    {
-      "id": 5,
-      "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Basic Polvoron",
       "link": "file:///android_asset/assets/details5.html"
     },
     {
       "id": 6,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Guinataang Bilo-Bilo",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Guinataang Bilo-Bilo",
       "link": "file:///android_asset/assets/details6.html"
     },
     {
       "id": 7,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Suman Moron (Chocolate Moron)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Suman Moron (Chocolate Moron)",
       "link": "file:///android_asset/assets/details7.html"
     },
     {
       "id": 8,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Kutsinta (Brown Rice Cake)",
       "image": "file:///android_asset/image/logo.png",
       "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
       "link": "file:///android_asset/assets/details8.html"
@@ -146,193 +114,193 @@
     {
       "id": 9,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Banana Lemon Loaves",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Banana Lemon Loaves",
       "link": "file:///android_asset/assets/details9.html"
     },
     {
       "id": 10,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Bibingka Espesyal (Special Rice Cake)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Bibingka Espesyal (Special Rice Cake)",
       "link": "file:///android_asset/assets/details10.html"
     },
     {
       "id": 11,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Bibingkang Malagkit (Glutinous Rice Cake)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Bibingkang Malagkit (Glutinous Rice Cake)",
       "link": "file:///android_asset/assets/details11.html"
     },
     {
       "id": 12,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Budbud Hinambid",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Budbud Hinambid",
       "link": "file:///android_asset/assets/details12.html"
     },
     {
       "id": 13,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Cake Flan (Custard Cake)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Cake Flan (Custard Cake)",
       "link": "file:///android_asset/assets/details13.html"
     },
     {
       "id": 14,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Chiffon Cake",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Chiffon Cake",
       "link": "file:///android_asset/assets/details14.html"
     },
     {
       "id": 15,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filipino Leche Flan",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filipino Leche Flan",
       "link": "file:///android_asset/assets/details15.html"
     },
     {
       "id": 16,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Gulaman (Gelatin in Coconut Milk)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Gulaman (Gelatin in Coconut Milk)",
       "link": "file:///android_asset/assets/details16.html"
     },
     {
       "id": 17,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Nachos",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Nachos",
       "link": "file:///android_asset/assets/details17.html"
     },
     {
       "id": 18,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filipino Custard Cake",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filipino Custard Cake",
       "link": "file:///android_asset/assets/details18.html"
     },
     {
       "id": 19,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filipino Buchi",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filipino Buchi",
       "link": "file:///android_asset/assets/details19.html"
     },
     {
       "id": 20,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filipino Crema De Fruta",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filipino Crema De Fruta",
       "link": "file:///android_asset/assets/details20.html"
     },
     {
       "id": 21,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filipino Banana Spring Rolls - Turon",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filipino Banana Spring Rolls - Turon",
       "link": "file:///android_asset/assets/details21.html"
     },
     {
       "id": 22,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Biko",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Biko",
       "link": "file:///android_asset/assets/details22.html"
     },
     {
       "id": 23,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Mamon (Sponge Cakes)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Mamon (Sponge Cakes)",
       "link": "file:///android_asset/assets/details23.html"
     },
     {
       "id": 24,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Maja Blanca (Coconut Pudding)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Maja Blanca (Coconut Pudding)",
       "link": "file:///android_asset/assets/details24.html"
     },
     {
       "id": 25,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Filet Mignon with Rich Balsamic Glaze",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Filet Mignon with Rich Balsamic Glaze",
       "link": "file:///android_asset/assets/details25.html"
     },
     {
       "id": 26,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Barquillos (Wafer Rolls)",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Barquillos (Wafer Rolls)",
       "link": "file:///android_asset/assets/details26.html"
     },
     {
       "id": 27,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Cassava Cake",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Cassava Cake",
       "link": "file:///android_asset/assets/details27.html"
     },
     {
       "id": 28,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Lipardo's Puto Seco",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Lipardo's Puto Seco",
       "link": "file:///android_asset/assets/details28.html"
     },
     {
       "id": 29,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Ube Halaya",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Ube Halaya",
       "link": "file:///android_asset/assets/details29.html"
     },
     {
       "id": 30,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Polvoron",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Polvoron",
       "link": "file:///android_asset/assets/details30.html"
     },
     {
       "id": 31,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Cheesy Cassava Squares",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Cheesy Cassava Squares",
       "link": "file:///android_asset/assets/details31.html"      
     },
     {
       "id": 32,
       "name_category": "tutorial",
-      "title": "5. Cara menggunakan aplikasi Pedulilindungi untuk check in di tempat umum",
+      "title": "Puto with Cheese",
       "image": "file:///android_asset/image/logo.png",
-      "description": "Sebagai aplikasi yang terintegrasi, kamu bisa menemukan tracker vaksin yang sudah dilakukan",
+      "description": "Puto with Cheese",
       "link": "file:///android_asset/assets/details32.html"
       
     }
