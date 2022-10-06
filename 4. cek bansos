@@ -16,7 +16,6 @@
       "interval_intertitial": 5,
       "initialize_sdk":"123456789",
       "initialize_sdk_backup_ads":"",
-      "url_webiste":"https://cekbansos.kemensos.go.id/",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -25,26 +24,35 @@
       "status_app": "0",
       "link_redirect": "https://"
     }
-  ],
-  "More": [
-    {
-      "id": 1,
-      "title": "cara daftar mypertamina",
-      "image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id="
-    },
-    {
-      "id": 2,
-      "title": "cara dafta pedulilindungi",
-      "image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id="
-    }
-  ],
-  "Categories": [
+],
+"More": [
+{
+"id": 1,
+"title": "cara daftar mypertamina",
+"image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
+"link": "https://play.google.com/store/apps/details?id="
+},
+{
+"id": 2,
+"title": "cara dafta pedulilindungi",
+"image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
+"link": "https://play.google.com/store/apps/details?id="
+}
+],
+"Categories": [
+{
+"id": 1,
+"name_category": "tutorial",
+"image": "file:///android_asset/image/logo.png"
+}
+],
+  "Data": [
     {
       "id": 1,
       "name_category": "tutorial",
-      "image": "file:///android_asset/image/logo.png"
+      "title": "Cara cek bansos BLT BBM",
+      "image": "file:///android_asset/image/logo.png",
+      "description": "Masukkan Provinsi, Kabupaten, Kecamatan, dan Desa/Kelurahan",
+      "link": "https://cekbansos.kemensos.go.id/"
     }
   ]
-}
