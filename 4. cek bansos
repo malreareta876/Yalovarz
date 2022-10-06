@@ -9,6 +9,7 @@
       "backup_ads_natives":"",
       "backup_ads_banner":"1234567890123456",
       "backup_ads_intertitial":"1234567890123456",
+      "url_webiste":"https://cekbansos.kemensos.go.id/",
       "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
       "open_ads_alien":"",
       "switch_open_ads":"1",
@@ -44,16 +45,6 @@
       "id": 1,
       "name_category": "tutorial",
       "image": "file:///android_asset/image/logo.png"
-    }
-  ],
-  "Data": [
-    {
-      "id": 1,
-      "name_category": "tutorial",
-      "title": "PENCARIAN DATA PM (PENERIMA MANFAAT) BANSOS",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Masukkan Provinsi, Kabupaten, Kecamatan, dan Desa/Kelurahan",
-      "link": "https://cekbansos.kemensos.go.id/"
     }
   ]
 }
