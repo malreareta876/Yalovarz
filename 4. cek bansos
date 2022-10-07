@@ -1,21 +1,17 @@
-{
-  "Ads": [
+{  
+
+"Ads": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"1234567890123456",
-      "backup_ads_intertitial":"1234567890123456",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
-      "open_ads_alien":"",
-      "switch_open_ads":"1",
-      "switch_banner_natives_ads":"ca-app-pub-3940256099942544/2247696110",
-      "interval_intertitial": 5,
-      "initialize_sdk":"123456789",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 3,
+      "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
+      "url_webiste":"https://aliendro.id",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -25,43 +21,32 @@
       "link_redirect": "https://"
     }
   ],
-  "More": [
+    "More":
+  [
     {
-      "id": 1,
-      "title": "cara daftar mypertamina",
-      "image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id="
+      "title":"MP3 Multi Ads",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92574196_261157678610912_115796497303339008_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/261159425277404"
     },
     {
-      "id": 2,
-      "title": "cara dafta pedulilindungi",
-      "image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
-      "link": "https://play.google.com/store/apps/details?id="
-    }
-  ],
-  "Categories": [
+      "title":"Wallpaper Json",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/92571715_255544925838854_5503643562077585408_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/255549092505104"
+    },
     {
-      "id": 1,
-      "name_category": "tutorial",
-      "image": "file:///android_asset/image/logo.png"
-    }
-  ],
-  "Data": [
+      "title":"Guide Json",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/91080900_251144816278865_2820888782906064896_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/251155719611108"
+    },
     {
-      "id": 1,
-      "name_category": "tutorial",
-      "title": "PENCARIAN DATA PM (PENERIMA MANFAAT) BANSOS",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Masukkan Provinsi, Kabupaten, Kecamatan, dan Desa/Kelurahan",
-      "link": "https://cekbansos.kemensos.go.id/"
-    }, 
+      "title":"Guide Blogspot",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/89941644_236400271086653_8098666792345403392_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/236402677753079"
+    },
     {
-      "id": 2,
-      "name_category": "tutorial",
-      "title": "PENCARIAN DATA PM (PENERIMA MANFAAT) BANSOS",
-      "image": "file:///android_asset/image/logo.png",
-      "description": "Masukkan Provinsi, Kabupaten, Kecamatan, dan Desa/Kelurahan",
-      "link": "https://cekbansos.kemensos.go.id/"
+      "title":"Wallpaper Blogspot",
+      "image":"https://aliendroid.dev/wp-content/uploads/2020/05/94314724_271704954222851_8758771117910392832_o.jpg",
+      "link":"https://www.facebook.com/aliendroidstudio/posts/230801341646546"
     }
   ]
 }
