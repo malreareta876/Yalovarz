@@ -1,0 +1,40 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "url_webiste":"https://sso.bpjsketenagakerjaan.go.id/",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More": [
+    {
+      "id": 1,
+      "title": "cara daftar mypertamina",
+      "image": "https://play-lh.googleusercontent.com/8ihjhDymV5YuCYebEOyu3nXnuH9Ce3YZfWcI86DPA_KjRkKTyauoPCgqS7tfAkbPqR9X=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    },
+    {
+      "id": 2,
+      "title": "cara dafta pedulilindungi",
+      "image": "https://play-lh.googleusercontent.com/ty3MgeTYB3VoS_KaQLzQMRv2xOmPiAPA5AD5zDCMmeNBJFSwU1ij10yiyhr-A6qNIQ=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id="
+    }
+  ]
+}
